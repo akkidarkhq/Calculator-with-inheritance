@@ -1,0 +1,92 @@
+input{
+    border-radius: 10px;
+    border: 0px;
+    width: 265px;
+    height: 70;
+    background-color: rgb(42,45,55);
+    color: #ffffff;
+    padding-left: 15px;
+    box-shadow: inset 2px 2px 2px 2px rgb(0, 0, 0);
+}
+input::placeholder{
+   font-size: 20px;
+}
+
+
+#cals{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 75px;
+}
+
+#nuBtn_cal-1_10{
+    width: 115px;
+}
+
+.calc-container{
+    width: 305px;
+    height: 455px;
+    background-color:rgb(47, 74, 146);
+    border-radius: 20px;
+    box-shadow:5px 5px rgb(0, 0, 0),5px 5px 50px 5px rgb(85, 85, 85);
+}
+
+.display-container{
+    width: 265px;
+    height: 100px;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+.btn-container{
+    margin-left: 20px;
+    width: 265px;
+    height: 335px;
+    background-color: #2a2d37 ;
+    border-radius: 10px;
+    padding-left:10px;
+    padding-top: 10px;
+    padding-right:10px;
+    box-shadow:inset 2px 2px#000000;
+}
+
+.funBtn-container{
+     height: 60px;
+     width: 150px;
+    float: left;
+}
+.numBtn-container{
+    width: 195px;
+    height: 300px;
+    float: left;
+    padding-top: 5px;
+}
+
+.opBtn-container{
+    width: 50px;
+    height: 350px;
+    float: right;
+}
+
+.btn 
+{   
+    font-size: px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    width: 50px;
+    height: 50px;
+    box-shadow: 2px 2px  rgb(238, 238, 236);
+   
+}
+
+
+
+
+
+
+
+
+
+
+
